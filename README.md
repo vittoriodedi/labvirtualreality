@@ -1,6 +1,6 @@
 # labvirtualreality
 
-This repository contains my final project for the *Laboratorio Realtà Virtuale* course.
+This repository contains my “Laboratorio Realtà Virtuale e Aumentata 1” course final project
 
 ## Overview
 
